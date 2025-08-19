@@ -1,4 +1,5 @@
-package String.day2;
+package string;
+
 
 public class RomanToInt {
     public static void main(String[] args) {

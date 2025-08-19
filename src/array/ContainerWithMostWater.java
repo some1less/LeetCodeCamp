@@ -1,6 +1,6 @@
-package Arrays.day_1;
+package array;
 
-public class Main {
+public class ContainerWithMostWater {
     public static void main(String[] args) {
 
 /*        int[][] arr = new int[3][3];

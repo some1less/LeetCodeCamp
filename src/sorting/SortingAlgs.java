@@ -1,4 +1,4 @@
-package day5;
+package sorting;
 
 public class SortingAlgs {
     public static void main(String[] args) {
