@@ -1,4 +1,4 @@
-package TwoP.day3;
+package twoPointers;
 
 public class MoveZeros {
     public static void main(String[] args) {
